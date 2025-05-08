@@ -1,3 +1,5 @@
+! Title:PC Filter
+! Homepage:https://github.com/kyjibato/blockh
 !PC
 news.yahoo.co.jp###articleCommentModule
 news.yahoo.co.jp##div:has(> a[data-cl-params*="cmtfloat"])
