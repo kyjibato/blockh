@@ -1,0 +1,11 @@
+!PC
+news.yahoo.co.jp###articleCommentModule
+news.yahoo.co.jp##div:has(> a[data-cl-params*="cmtfloat"])
+
+!SP
+news.yahoo.co.jp##div#comModule
+
+!CO
+news.yahoo.co.jp##:is(a, button)[data-cl-params*="cmtmod"]
+news.yahoo.co.jp##section:has(a[data-cl-params*="vote_mod"])
+||news.yahoo.co.jp/articles/*/comments$document
