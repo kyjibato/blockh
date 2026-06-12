@@ -1,0 +1,15 @@
+! Title: Custom Blocklist
+! Description: Converted from provided URL list, excluding pornography and YouTube
+! Syntax: AdGuard
+
+||2nn.jp^
+||anond.hatelabo.jp^
+||b.hatena.ne.jp^
+||gigazine.net^
+||gori.me^
+||iphone-mania.jp^
+||ldblog.jp^
+||livedoor.jp^
+||posfie.com^
+||taisy0.com^
+||togetter.com^
